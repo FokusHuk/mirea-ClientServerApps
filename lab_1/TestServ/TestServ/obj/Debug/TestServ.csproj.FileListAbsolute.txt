@@ -1,0 +1,7 @@
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\bin\Debug\TestServ.exe.config
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\bin\Debug\TestServ.exe
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\bin\Debug\TestServ.pdb
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\obj\Debug\TestServ.csprojAssemblyReference.cache
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\obj\Debug\TestServ.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\obj\Debug\TestServ.exe
+C:\Users\Ilya Axenov\source\repos\TestServ\TestServ\obj\Debug\TestServ.pdb
